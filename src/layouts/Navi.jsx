@@ -14,7 +14,6 @@ export default function Navi() {
                         name='messages'
 
                     />
-
                     <Menu.Menu position='right'>
                         <Dropdown item text='Language'>
                             <Dropdown.Menu>
